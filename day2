@@ -1,0 +1,11 @@
+##Task :
+1. Perbedaan antara IP Private & Public, serta IP Dynamic & Static!
+   ip private adalah ip yang hanya dapat di akses oleh jaringan local dan sedangkan ip public bisa di akses oleh jaringan global melalui ISP (internet Service Provider)
+   Ip Dynamic dapat berubah-ubah, gratis, biasa di gunakan internet dirumahan dan kantor, sedangkan IP STATIS di TETAPKAN oleh ISP, tidaka berubah, dan berbayar, digunakan untuk bisnis, saya baik di gunakan untuk webhosting, server mail, VoIP, FTP
+
+2. Buat rancangan sebuah jaringan dengan spesifikasi sebagai berikut!
+      - CIDR Block : 192.168.1.xxx/24
+      - Subnet : 255.255.255.0
+      - Gateway : 192.168.1.1
+
+3. Gunakan app.diagrams.net untuk membuat diagramnya, Referensi gambar sudah disertakan
